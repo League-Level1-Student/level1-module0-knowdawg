@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	
 	
 	Robot meep = new Robot();
-	meep.setSpeed(1);
+	meep.setSpeed(10000);
 	meep.miniaturize();
 	meep.penDown();
 	
